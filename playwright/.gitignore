@@ -13,5 +13,4 @@ user.js
 # Local History for IDE
 .history/
 /test-results/
-/playwright-report/
 /playwright/.cache/

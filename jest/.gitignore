@@ -11,8 +11,7 @@ user.js
 !.vscode/extensions.json
 *.code-workspace
 
-# Local History for Visual Studio Code
+# Local History for IDE
 .history/
 /test-results/
-/playwright-report/
 /playwright/.cache/
